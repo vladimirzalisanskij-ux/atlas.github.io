@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "build": "2026.09.29.1",
+  "build": "2026.09.29.2",
   "title": {
     "ru": "Публичный релиз",
     "en": "Public Release"
@@ -9,6 +9,6 @@
     "ru": "Первый публичный релиз Atlas.",
     "en": "The first public release of Atlas."
   },
-  "downloadSize": "0.84 MB",
+  "downloadSize": "0.40 MB",
   "url": "https://vladimirzalisanskij-ux.github.io/atlas.github.io/"
 }
