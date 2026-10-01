@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "build": "2026.09.29.2",
+  "build": "2026.10.01.1",
   "title": {
     "ru": "Публичный релиз",
     "en": "Public Release"
   },
   "summary": {
-    "ru": "Первый публичный релиз Atlas.",
-    "en": "The first public release of Atlas."
+    "ru": "Первый публичный релиз Atlas с английской локализацией, Model Advisor и безопасными сохранениями.",
+    "en": "The first public release of Atlas with English localization, Model Advisor, and safe saves."
   },
-  "downloadSize": "0.40 MB",
+  "downloadSize": "0.5 MB",
   "url": "https://neorune-interactive.itch.io/atlas"
 }
